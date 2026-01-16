@@ -13,7 +13,7 @@ Through this project I aim to answer the following:
 - What rental features have the highest correlation with price?
 
 # Data Description
-- **Data Source:** Inside Airbnb (NYC)
+- **Data Source:** [Inside Airbnb (NYC)](https://insideairbnb.com/get-the-data/)
 - **Time Period** January-October 2025 (Only months available at time of analysis)
 - **Key Variables:**
   - Price

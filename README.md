@@ -58,6 +58,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path.cwd() / "src"))
 
 from inside_airbnb import data_loading, preprocessing, analysis, visualization
+```
 
 ## Module Documentation
 
@@ -96,3 +97,4 @@ from inside_airbnb import data_loading, preprocessing, analysis, visualization
 Inside Airbnb NYC dataset (January-October 2025)
 - Website: http://insideairbnb.com
 - Data includes listings, reviews, and calendar data
+
